@@ -1,4 +1,4 @@
-# Experimental Reverb Building Blocks for the Daisy Seed
+# Experimental Reverb (and Delay) Building Blocks for the Daisy Seed
 
 This repository contains a collection of **modular, experimental reverb and spatial audio building blocks**, intended for use on the [**Electrosmith Daisy Seed**](https://www.electro-smith.com/daisy/daisy). The focus is on **flexibility**, **exploration**, and **rapid iteration**, rather than polished production-ready code.
 
