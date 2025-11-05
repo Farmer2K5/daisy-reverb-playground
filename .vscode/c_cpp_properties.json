@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "cStandard": "gnu11",
+            "compilerPath": "arm-none-eabi-g++.exe",
+            "cppStandard": "gnu++17",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../lib/libDaisy/**",
+                "${workspaceFolder}/../lib/DaisySP/**"
+            ],
+            "name": "Win32",
+            "windowsSdkVersion": "10.0.17763.0",
+            "intelliSenseMode": "windows-gcc-arm"
+        },
+        {
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../lib/libDaisy/**",
+                "${workspaceFolder}/../lib/DaisySP/**"
+            ],
+            "name": "macOS"
+        }
+    ],
+    "version": 4
+}
